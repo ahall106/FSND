@@ -49,7 +49,7 @@ Use all of the concepts and the skills taught in the courses to build an API fro
 - Deploying Applications
 
 ## URL location for the hosted API
-**Heroku git URL:** https://git.heroku.com/heroku-capstone-444y.git
+**Heroku URL:** https://capstone-hall.herokuapp.com/ 
 
 ## Getting Started
 
